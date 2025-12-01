@@ -1,6 +1,6 @@
 
 <div align="center">
-  ![08effcada999d99296809c4a3189d92d](https://github.com/user-attachments/assets/606caf58-87cc-4d61-b376-bd914ef72f33)
+ ![image](https://github.com/user-attachments/assets/606caf58-87cc-4d61-b376-bd914ef72f33)
 </div>
 
 # Hi there, I'm D-reev 👋
