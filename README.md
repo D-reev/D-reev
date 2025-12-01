@@ -52,8 +52,6 @@ I'm a **college IT student** with a passion for building real-world solutions an
 - 📱 Building PWA features for offline-first experiences
 
 ## 🎯 My Approach to Development
-
-Through our work together, I've shown that I:
 - ✅ Focus on **performance optimization** - from nested queries to efficient top-level collections
 - ✅ Value **clean code architecture** - implementing proper separation of concerns
 - ✅ Embrace **best practices** - security rules, error handling, and backward compatibility
