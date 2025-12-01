@@ -65,9 +65,21 @@ Through our work together, I've shown that I:
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-reev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7C948&icon_color=F7C948)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D-reev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7C948&icon_color=F7C948&text_color=FFFFFF&count_private=true"/>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D-reev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F7C948)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-reev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7C948&text_color=FFFFFF"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D-reev&theme=tokyonight&hide_border=true&background=0D1117&ring=F7C948&fire=F7C948&currStreakLabel=F7C948"/>
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-reev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F7C948&line=F7C948&point=FFFFFF"/>
   
 </div>
 
