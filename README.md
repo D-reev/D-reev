@@ -2,6 +2,13 @@
 # Hi there, I'm D-reev 👋
 
 <div align="center">
+
+![Banner 1](image1)
+![Banner 2](image2)
+
+</div>
+
+<div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C948&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IT+Student;Creative+Content+Creator;Fitness+%26+Adventure+Enthusiast)
   
