@@ -17,7 +17,7 @@ I'm a **college IT student** with a passion for building real-world solutions an
 - 🎮 Gaming enthusiast - always up for a good session
 - 💪 Fitness advocate - regular at the gym
 - 🏔️ Mountaineering lover - seeking new peaks to climb
-- 🔧 Currently working on **MotoHub** - an automotive service management system
+- 🔧 Work on **MotoHub** - an automotive service management system
 
 ## 🛠️ Tech Stack
 
